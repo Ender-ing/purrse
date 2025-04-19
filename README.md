@@ -1,6 +1,6 @@
 # Purrse
 
-A tracking app meant to help you "purrse ^..^" your financial goals!
+A tracking app meant to help you "purrrsue ^..^" your financial goals!
 
 > [!IMPORTANT]
 > This is a new [**React Native**](https://reactnative.dev) project,
